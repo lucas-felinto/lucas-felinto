@@ -1,7 +1,7 @@
 ### Olá, Seja Bem Vindo! 👋
 
 ### :information_source: Sobre
-Me chamo Lucas Felinto, Desenvolvedor Back End Jr. na [Incentivar.io](http://incentivar.io/), a primeira IncentivaTech da América Latina. Buscando sempre colaborar com a comunidade, em constante aprendizado e evolução, sendo melhor a cada dia!
+Me chamo Lucas Felinto, sou desenvolvedor Back End Jr. na [Incentivar.io](http://incentivar.io/), a primeira IncentivaTech da América Latina. Buscando sempre colaborar com a comunidade, em constante aprendizado e evolução, sendo melhor a cada dia!
 
 ### :rocket: Tecnologias
 Atualmente focado em NodeJS, JavaScript, ReactJS. Postgres, MySQL e MongoDB.
