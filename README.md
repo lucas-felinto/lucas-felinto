@@ -1,4 +1,4 @@
-### Olá, Seja Bem Vindo! 👋
+### Olá, Seja Bem Vindo(a)! 👋
 
 <a href="https://www.linkedin.com/in/lucas-felinto/">
   <img alt="My Linkedin" src="https://img.shields.io/badge/lucasfelinto-%230077B5?style=social&logo=linkedin">
