@@ -17,4 +17,4 @@ I'm Lucas Felinto, Back End developer at [Incentivar.io](http://incentivar.io/),
 - [URL Shortener](https://github.com/lucas-felinto/url-shortener):
   Links Shortener
 - [PokemonsAPI](https://github.com/lucas-felinto/pokemonsAPI):
-  Simple and complete Pomenon's API.
+  Simple and complete Pokemon's API.
