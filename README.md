@@ -13,8 +13,8 @@ I'm Lucas Felinto, Back End developer at [Incentivar.io](http://incentivar.io/),
 - [ReadMe Maker](https://github.com/lucas-felinto/readme_maker):
   Easy and pratical ReadMe Generator! See the [issues](https://github.com/lucas-felinto/readme_maker/issues) to colaborate.
 - [MyBooks](https://github.com/lucas-felinto/myBooks):
-  Organizer of readings inspired by the app  "Cabeceira"
+  Organizer of readings inspired by the app  "Cabeceira".
 - [URL Shortener](https://github.com/lucas-felinto/url-shortener):
-  Links Shortener
+  Links Shortener.
 - [PokemonsAPI](https://github.com/lucas-felinto/pokemonsAPI):
   Simple and complete Pokemon's API.
