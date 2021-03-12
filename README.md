@@ -22,7 +22,7 @@ I'm Lucas Felinto, Back End developer at [LinkApi Solutions](https://www.linkapi
 
 ### :octocat: Personal Projects
 - [ReadMe Maker](https://github.com/lucas-felinto/readme_maker):
-  Easy and pratical ReadMe Generator! See the [issues](https://github.com/lucas-felinto/readme_maker/issues) to colaborate.
+  Easy and pratical ReadMe Generator! Check the [issues](https://github.com/lucas-felinto/readme_maker/issues) to colaborate.
 - [GitHub Followers Management API](https://github.com/lucas-felinto/github-followers-management):
   Discover users who follows you but you don't follow they back or users you follow but don't follow you back.
 - [MyBooks](https://github.com/lucas-felinto/myBooks):
