@@ -27,6 +27,8 @@ I'm Lucas Felinto, Back End developer at [LinkApi Solutions](https://www.linkapi
   Discover users who follows you but you don't follow they back or users you follow but don't follow you back.
 - [MyBooks](https://github.com/lucas-felinto/myBooks):
   Organizer of readings inspired by the app  "Cabeceira".
+- [Pipedrive-Bling Integration](https://github.com/lucas-felinto/pipedrive-bling-integration):
+  An integration between a CRM platform and ERP plataform. 
 - [URL Shortener](https://github.com/lucas-felinto/url-shortener):
   Links Shortener.
 - [PokemonsAPI](https://github.com/lucas-felinto/pokemonsAPI):
