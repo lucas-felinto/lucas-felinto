@@ -5,7 +5,9 @@
 </a>
 
 ### :information_source: About
-I'm Lucas Felinto, Software Engineer at [Twilio Inc.](https://www.twilio.com/), integration platform. Always seeking to collaborate with the community, constantly learning and evolving, being better than yesterday ever!
+I'm Lucas Felinto, Software Engineer at [Twilio Inc.](https://www.twilio.com/), the best customer engajement platform in the world 🌍 
+</br>
+Always seeking to collaborate with the community, constantly learning and evolving, being better than yesterday ever!
 
 ### :rocket: Technologies
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://mauricius.dev/images/adonis.png" width="100" heigth="50" /> <img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/>
